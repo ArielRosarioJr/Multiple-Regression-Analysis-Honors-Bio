@@ -22,6 +22,11 @@ Study Hours Per Week, Classes Missed, Age, and Gender, each providing unique ins
 - A significant positive correlation was found between the number of study hours per week and final grades, highlighting the importance of dedicated study time.
 - There is a notable negative correlation between the number of classes missed and final grades, emphasizing the critical role of consistent attendance for success in the course.
 
+## Recommendations
+
+- Implement mandatory study hours for students enrolled in this course.
+- Implement an intervention system where professors reach out to students who miss too many classes in order to help improve student performance.
+
 ## Implications
 
 The insights from this analysis underscore the value of encouraging effective study habits and regular class attendance among students. These findings can guide instructors and 

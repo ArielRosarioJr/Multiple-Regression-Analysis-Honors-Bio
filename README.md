@@ -25,7 +25,7 @@ Study Hours Per Week, Classes Missed, Age, and Gender, each providing unique ins
 ## Recommendations
 
 - Implement mandatory study hours for students enrolled in this course.
-- Implement an intervention system where professors reach out to students who miss too many classes in order to help improve student performance.
+- Implement a intervention system where professors reach out to students who miss too many classes in order to help improve student performance.
 
 ## Implications
 
